@@ -1,0 +1,40 @@
+{
+  "name": "wp-fe-nlemchukwu-destiny-repo",
+  "version": "1.0.0",
+  "description": "Thanks for your interest in the WordPress developer position at Computan. Please work on the following assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "gulp sass",
+    "watch": "gulp sass:watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Computan-Tests/wp-fe-nlemchukwu-destiny-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Computan-Tests/wp-fe-nlemchukwu-destiny-repo/issues"
+  },
+  "homepage": "https://github.com/Computan-Tests/wp-fe-nlemchukwu-destiny-repo#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.8",
+    "babel-core": "^6.26.3",
+    "del": "^7.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-csslint": "^1.0.1",
+    "gulp-htmltidy": "^0.2.4",
+    "gulp-jshint": "^2.1.0",
+    "gulp-sass": "^5.1.0",
+    "jshint": "^2.13.6",
+    "node-sass": "^8.0.0",
+    "sass": "^1.62.1"
+  },
+  "dependencies": {
+    "gulp-run-command": "^0.0.10"
+  }
+}
